@@ -1,0 +1,6 @@
+{
+  "name": "Palavras Bíblicas",
+  "description": "Jogo de memorização de palavras bíblicas baseado na Bíblia Sagrada da Tradução do Novo Mundo 2015 e palavras cruzadas da Despertai!, com modos solo e multi-jogador, sistema de vidas, pontuação dinâmica e ranking local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

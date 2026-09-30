@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Open Bible Pages -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M12,4.5C10.5,3.6 8.5,3 6.5,3C4.5,3 2.7,3.6 1.5,4.5C1.2,4.7 1,5.1 1,5.5V19C1,19.6 1.4,20 2,20C2.2,20 2.4,19.9 2.6,19.8C3.8,19.3 5.3,19 6.5,19C8.5,19 10.5,19.6 12,20.5C13.5,19.6 15.5,19 17.5,19C18.7,19 20.2,19.3 21.4,19.8C21.6,19.9 21.8,20 22,20C22.6,20 23,19.6 23,19V5.5C23,5.1 22.8,4.7 22.5,4.5C21.3,3.6 19.5,3 17.5,3C15.5,3 13.5,3.6 12,4.5ZM11,18.2C9.7,17.4 8.2,17 6.5,17C5,17 3.7,17.3 3,17.7V6.2C3.8,5.8 5.1,5.5 6.5,5.5C8.2,5.5 9.8,6 11,6.8V18.2ZM21,17.7C20.3,17.3 19,17 17.5,17C15.8,17 14.3,17.4 13,18.2V6.8C14.2,6 15.8,5.5 17.5,5.5C18.9,5.5 20.2,5.8 21,6.2V17.7Z" />
+    <!-- Golden Ribbon Bookmark in Center -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M11,4.5V14L12,12.5L13,14V4.5C12.7,4.4 12.3,4.4 12,4.4C11.7,4.4 11.3,4.4 11,4.5Z" />
+    <!-- Scripture Lines Left -->
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M4.5,8H9.5V9.5H4.5ZM4.5,11H9.5V12.5H4.5ZM4.5,14H8.5V15.5H4.5Z" />
+    <!-- Scripture Lines Right -->
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M14.5,8H19.5V9.5H14.5ZM14.5,11H19.5V12.5H14.5ZM14.5,14H18.5V15.5H14.5Z" />
+</vector>
